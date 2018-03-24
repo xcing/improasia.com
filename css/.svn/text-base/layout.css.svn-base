@@ -1,0 +1,30 @@
+/*======= index.html =======*/
+
+.col-1{
+	width:310px;
+}
+.col-2{
+	width:290px;
+	margin-left:50px;
+}
+
+#services .col-1{
+	width:264px;
+}
+
+#services .col-2{
+	width:264px;
+}
+
+#contacts .col-1{
+	width:300px;
+}
+
+#contacts .col-2{
+	width:300px;
+	margin-left:20px;
+}
+
+/*=========================*/
+
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/improasia/!svn/ver/4/trunk/phpmailer
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/improasia/!svn/ver/4/trunk/phpmailer/LICENSE
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/improasia/!svn/ver/4/trunk/phpmailer/changelog.txt
+END
+docs.ini
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/improasia/!svn/ver/4/trunk/phpmailer/docs.ini
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/improasia/!svn/ver/4/trunk/phpmailer/class.phpmailer.php
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/improasia/!svn/ver/4/trunk/phpmailer/class.pop3.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/improasia/!svn/ver/4/trunk/phpmailer/README
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/improasia/!svn/ver/4/trunk/phpmailer/class.smtp.php
+END

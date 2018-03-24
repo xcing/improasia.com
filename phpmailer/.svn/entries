@@ -1,0 +1,121 @@
+8
+
+dir
+19
+https://subversion.assembla.com/svn/improasia/trunk/phpmailer
+https://subversion.assembla.com/svn/improasia
+
+
+
+2012-11-20T09:13:10.040160Z
+4
+lilybluecat
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aee0058c-3255-46a7-b401-7ea323b78d95
+
+LICENSE
+file
+
+
+
+
+2012-11-27T06:07:03.342716Z
+278f2557e3b277b94e9a8430f6a6d0a9
+2012-11-20T09:13:10.040160Z
+4
+lilybluecat
+
+language
+dir
+
+changelog.txt
+file
+
+
+
+
+2012-11-27T06:07:03.344716Z
+c05b00d198cf3b6794d625efd080d684
+2012-11-20T09:13:10.040160Z
+4
+lilybluecat
+
+extras
+dir
+
+docs.ini
+file
+
+
+
+
+2012-11-27T06:07:03.346716Z
+ef2330090d65f531fda92de41e1a5c3a
+2012-11-20T09:13:10.040160Z
+4
+lilybluecat
+
+docs
+dir
+
+class.phpmailer.php
+file
+
+
+
+
+2012-11-27T06:07:03.349716Z
+620a0b56ed662168f183baeb0eef7486
+2012-11-20T09:13:10.040160Z
+4
+lilybluecat
+
+class.pop3.php
+file
+
+
+
+
+2012-11-27T06:07:03.351716Z
+078ffe074e174265a1d4a9aea7b2168e
+2012-11-20T09:13:10.040160Z
+4
+lilybluecat
+
+README
+file
+
+
+
+
+2012-11-27T06:07:03.353716Z
+5a77656de86a8d65fe03fad7f851534f
+2012-11-20T09:13:10.040160Z
+4
+lilybluecat
+
+class.smtp.php
+file
+
+
+
+
+2012-11-27T06:07:03.356716Z
+d792e4a0d5a376d6bdc4275414bd58ab
+2012-11-20T09:13:10.040160Z
+4
+lilybluecat
+
